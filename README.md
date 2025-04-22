@@ -70,5 +70,5 @@ This project uses a fictional dataset created for educational purposes, simulati
 ## 🔗 About the Author
 
 Hi! I'm a BI student passionate about data visualization and storytelling. This is part of my Power BI portfolio, created to practice dashboard design and share my learning journey.  
-📬 [Let’s connect!](#)
+📬 [Let’s connect!](https://www.linkedin.com/in/suse-andrade/)
 
